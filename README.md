@@ -13,7 +13,7 @@
 
 ## 🧠 Стек технологий
 
-**Flutter / Dart**: BLoC, Provider, GetX, Dio, Drift, Hive, SQLite, WebSocket, json_serializable, flutter_test, mockito  
+**Flutter / Dart**: BLoC, Provider, GetIT, Dio, Drift, Hive, GetX, SQLite, WebSocket, json_serializable, flutter_test, mockito  
 **DevOps / Tools**: Git, Fastlane, CocoaPods, Docker, OpenAPI, Postman, Supabase  
 **Frontend**: Material, Cupertino  
 **Дополнительно**: Yandex Maps, CI/CD, аналитика, юнит-тесты
